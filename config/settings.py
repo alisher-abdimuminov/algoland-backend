@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-j&eg$3kmwx)9(foz1n4zj^!ttg@-qodv!&ittz*o^l!r-g+_=p
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["api.algoland.uz"]
 
 
 INSTALLED_APPS = [
